@@ -7,6 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 77
+=======
+<<<<<<< HEAD
+66
+=======
+2
+>>>>>>> branch 'b1' of https://github.com/kakyoho/test1
+>>>>>>> branch 'b1' of https://github.com/kakyoho/test1
 </body>
 </html>
